@@ -17,6 +17,7 @@ Before you begin, ensure you have met the following requirements:
 Install the necessary dependencies:
 
 ```
+npm install
 composer install
 ```
 
