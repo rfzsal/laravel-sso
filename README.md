@@ -18,6 +18,9 @@ Install the necessary dependencies:
 
 ```
 npm install
+```
+
+```
 composer install
 ```
 
@@ -62,5 +65,8 @@ Start the development server:
 
 ```
 npm run dev
+```
+
+```
 php artisan serve
 ```
